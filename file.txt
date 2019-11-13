@@ -13,3 +13,5 @@ log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset)
 
 wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
 sudo dpkg -i gitkraken-amd64.deb
+
+https://github.com/nicothin/web-development/tree/master/git
